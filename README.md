@@ -22,8 +22,8 @@ I am a passionate **IT Graduate** from Sana'a Community College specialized in b
 #### 🎙️ [TTS-STT Studio](https://github.com/Eng-Nhshl/tts-stt-studio)
 *A **Python-based** utility for multi-language Text-to-Speech and Speech-to-Text conversion. Showcases my ability to work with APIs and AI libraries.*
 
-#### 📍 [Yemeni Tour Guide & Brand Marketing](https://github.com/Eng-Nhshl)
-*Two graduation projects demonstrating full-stack architecture. Built with **Flutter** for mobile and **PHP/MySQL** for the backend, showcasing my ability to handle end-to-end development.*
+#### 📍 [Brand Marketing](https://github.com/Eng-Nhshl)
+*A Graduation project demonstrating full-stack architecture. Built with **Flutter** for mobile and **PHP/MySQL** for the backend, showcasing my ability to handle end-to-end development.*
 
 ---
 
