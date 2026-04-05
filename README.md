@@ -19,11 +19,11 @@ I am a passionate **IT Graduate** from Sana'a Community College specialized in b
 #### 📋 [Sync-Board](https://github.com/Eng-Nhshl/sync-board)
 *A real-time collaborative Kanban board built with the **MERN Stack**. Features live synchronization using **Socket.io**, allowing multiple users to manage tasks simultaneously without refreshing.*
 
-#### 🎙️ [TTS-STT Studio](https://github.com/Eng-Nhshl/tts-stt-studio)
-*A **Python-based** utility for multi-language Text-to-Speech and Speech-to-Text conversion. Showcases my ability to work with APIs and AI libraries.*
+#### 🎙️ [Chat-App](https://github.com/Eng-Nhshl/real-time-chat)
+* A modern, real-time chatting application built with the MERN stack (MongoDB, Express.js, React, Node.js) and Socket.io for instant messaging.*
 
-#### 📍 [Brand Marketing](https://github.com/Eng-Nhshl)
-*A Graduation project demonstrating full-stack architecture. Built with **Flutter** for mobile and **PHP/MySQL** for the backend, showcasing my ability to handle end-to-end development.*
+#### 📍 [Dev-Connnect](https://github.com/Eng-Nhshl/dev-connect)
+*Dev-Connect is a full-stack platform designed to help developers move out of "tutorial hell" by finding real-world projects and collaborators.*
 
 ---
 
