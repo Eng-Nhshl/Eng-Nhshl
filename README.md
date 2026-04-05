@@ -17,13 +17,13 @@ I am a passionate **IT Graduate** from Sana'a Community College specialized in b
 ### 🛠️ Featured Web Projects
 
 #### 📋 [Sync-Board](https://github.com/Eng-Nhshl/sync-board)
-*A real-time collaborative Kanban board built with the **MERN Stack**. Features live synchronization using **Socket.io**, allowing multiple users to manage tasks simultaneously without refreshing.*
+* A real-time collaborative Kanban board built with the **MERN Stack**. Features live synchronization using **Socket.io**, allowing multiple users to manage tasks simultaneously without refreshing.*
 
 #### 🎙️ [Chat-App](https://github.com/Eng-Nhshl/real-time-chat)
 * A modern, real-time chatting application built with the MERN stack (MongoDB, Express.js, React, Node.js) and Socket.io for instant messaging.*
 
 #### 📍 [Dev-Connnect](https://github.com/Eng-Nhshl/dev-connect)
-*Dev-Connect is a full-stack platform designed to help developers move out of "tutorial hell" by finding real-world projects and collaborators.*
+* Dev-Connect is a full-stack platform designed to help developers move out of "tutorial hell" by finding real-world projects and collaborators.*
 
 ---
 
