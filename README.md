@@ -1,36 +1,49 @@
-# Hi 👋, I'm Ali Nhshl 
-### Full Stack Developer | React & Node.js Specialist
+# Hi 👋, I'm Ali Nhshl
 
-I am a passionate **IT Graduate** from Sana'a Community College specialized in building scalable web applications. While I have experience in mobile development, my primary focus and passion lie in the **React ecosystem** and modern web technologies. I love creating fast, responsive, and real-time user experiences.
+### Full Stack Developer | React, Next.js & Node.js Specialist
+I am a passionate **IT Graduate** from Sana'a Community College specialized in building scalable, production-ready web applications. My expertise lies in the **modern JavaScript ecosystem**, with a deep focus on creating fast, responsive, and real-time user experiences.
+
 
 ---
 
-### 🚀 Technical Toolbox
+### 🏆 Certifications & Achievements
+*   **Full Stack Open (Parts 0-9) - University of Helsinki:** Completed the deep-dive into modern web development, covering React, Redux, Node.js, MongoDB, GraphQL, TypeScript, and CI/CD.
+*   ![Full Stack Open Certificate](./certificate.png)
 
-- **Frontend:** **React (Primary)**, Redux, Tailwind CSS, Material UI, Bootstrap
-- **Backend:** Node.js, Express, GraphQL, Apollo, PHP
-- **Database:** MongoDB (Mongoose), MySQL
-- **Other:** Socket.io, Jest Testing, Git/GitHub, Python, Flutter/Dart
+*   **Next.js Dashboard Specialization:** Built a full-stack financial dashboard focused on App Router logic, Server Actions, and Auth.js.
 
 ---
 
 ### 🛠️ Featured Web Projects
 
+#### 📈 [Next.js Financial Dashboard](https://github.com)
+*A professional financial management system.*
+- **Tech:** Next.js 15, PostgreSQL, Auth.js, Tailwind CSS, Zod.
+- **Key Features:** Server-side search & pagination, secure authentication, and real-time data fetching.
+- **Live Demo:** [https://vercel.app](https://vercel.app)
+
 #### 📋 [Sync-Board](https://github.com/Eng-Nhshl/sync-board)
-* A real-time collaborative Kanban board built with the **MERN Stack**. Features live synchronization using **Socket.io**, allowing multiple users to manage tasks simultaneously without refreshing.*
+*Real-time collaborative Kanban board.*
+- **Tech:** MERN Stack & Socket.io.
+- **Key Features:** Live synchronization allowing multiple users to manage tasks simultaneously.
 
 #### 🎙️ [Chat-App](https://github.com/Eng-Nhshl/real-time-chat)
-* A modern, real-time chatting application built with the MERN stack (MongoDB, Express.js, React, Node.js) and Socket.io for instant messaging.*
-
-#### 📍 [Dev-Connnect](https://github.com/Eng-Nhshl/dev-connect)
-* Dev-Connect is a full-stack platform designed to help developers move out of "tutorial hell" by finding real-world projects and collaborators.*
+*Instant messaging platform.*
+- **Tech:** MongoDB, Express, React, Node.js, Socket.io.
 
 ---
 
-### 📈 Currently Learning
-- **TypeScript** (Bringing type safety to my React projects)
-- **DevOps:** Docker & CI/CD Pipelines
-- **Relational Databases:** PostgreSQL
+### 🚀 Technical Toolbox
+- **Frontend:** **React (Expert)**, Next.js, Redux, TypeScript, Tailwind CSS, Material UI.
+- **Backend:** Node.js, Express, GraphQL, Apollo, PHP.
+- **Database:** PostgreSQL, MongoDB (Mongoose), MySQL.
+- **Other:** Socket.io, Jest Testing, Docker, CI/CD Pipelines, Git/GitHub.
+
+---
+
+### 📈 Current Focus
+- **Advanced TypeScript:** Implementing strict type safety across full-stack architectures.
+- **DevOps:** Scaling applications using Docker and automated deployment workflows.
 
 ---
 
@@ -39,5 +52,6 @@ I am a passionate **IT Graduate** from Sana'a Community College specialized in b
 - **Email:** engnhshl@gmail.com
 - **Location:** Sana'a, Yemen
 
----
 *“Building the web, one component at a time.”*
+
+
