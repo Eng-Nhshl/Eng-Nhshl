@@ -20,7 +20,7 @@ I am a passionate **IT Graduate** from Sana'a Community College specialized in b
 *A professional financial management system.*
 - **Tech:** Next.js 15, PostgreSQL, Auth.js, Tailwind CSS, Zod.
 - **Key Features:** Server-side search & pagination, secure authentication, and real-time data fetching.
-- **Live Demo:** [https://vercel.app](https://vercel.app)
+- **Live Demo:** [[https://vercel.app](https://vercel.app)](https://nextjs-dashboard-62umryl26-engnhshl-1867s-projects.vercel.app/login)
 
 #### 📋 [Sync-Board](https://github.com/Eng-Nhshl/sync-board)
 *Real-time collaborative Kanban board.*
