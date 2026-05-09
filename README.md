@@ -7,13 +7,9 @@ I am a passionate **IT Graduate** from Sana'a Community College specialized in b
 ---
 
 ### 📊 My GitHub Journey
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Eng-Nhshl&theme=tokyonight&column=7&margin-w=15" alt="Trophies" />
-</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Eng-Nhshl&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eng-Nhshl&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Eng-Nhshl&theme=tokyonight&column=7&margin-w=15" alt="Trophies" />
 </p>
 
 ---
@@ -63,6 +59,19 @@ I am a passionate **IT Graduate** from Sana'a Community College specialized in b
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
 </p>
+
+---
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img height="210" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Eng-Nhshl&theme=tokyonight" />
+    </td>
+    <td align="center" width="50%">
+      <img height="210" src="https://github-readme-streak-stats.herokuapp.com/?user=Eng-Nhshl&theme=tokyonight" />
+    </td>
+  </tr>
+</table>
 
 ---
 
