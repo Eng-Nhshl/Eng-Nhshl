@@ -21,8 +21,19 @@ I am a passionate **IT Graduate** from Sana'a Community College specialized in b
 
 #### 📜 Earned Credentials
 
+- **Full Stack Open (Core Curriculum) — University of Helsinki**  
+  Earned 7 ECTS credits mastering the foundations of modern web development, deep-diving into React, Redux Toolkit, Node.js/Express, MongoDB user administration, and automated component/E2E testing.
+
 ![Full Stack Open - Core Course Certificate](/assets/certificate-fullstack.png)
+
+- **Full Stack Open (GraphQL Part) — University of Helsinki**  
+  Earned 1 ECTS credit focusing on schemas, queries, mutations, Apollo Client, and WebSockets.
+
 ![Full Stack Open - GraphQL Advanced Certificate](/assets/certificate-graphql.png)
+
+- **Full Stack Open (TypeScript Part) — University of Helsinki**  
+  Earned 1 ECTS credit specializing in typed full-stack development, covering static typing, strict configurations, Express endpoint typing, and migrating existing React architectures to TypeScript.
+
 ![Full Stack Open - TypeScript Certificate](/assets/certificate-typescript.png)
 
 - **Next.js Dashboard Specialization:** Built a full-stack financial dashboard focused on App Router logic, Server Actions, and Auth.js.
