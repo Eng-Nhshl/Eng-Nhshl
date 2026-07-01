@@ -4,18 +4,6 @@
 
 Building modern, scalable, and user-focused web applications with clean architecture and polished user experiences.
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/eng-nhshl-b12962306/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:engnhshl@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://wa.me/+967774713102">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-  </a>
-</p>
-
 ---
 
 ### About Me
@@ -81,6 +69,7 @@ A real-time collaborative Kanban board designed for smooth task coordination and
 
 - Tech: MERN Stack, Socket.io
 - Highlights: live synchronization across users and instant task updates
+- Project link: [Repository](https://github.com/Eng-Nhshl/sync-board.git)
 
 #### 💬 Chat-App
 
@@ -88,6 +77,7 @@ An instant messaging platform built for fast and reliable communication.
 
 - Tech: MongoDB, Express, React, Node.js, Socket.io
 - Highlights: real-time messaging and a responsive interface
+- Project link: [Repository](https://github.com/Eng-Nhshl/real-time-chat.git)
 
 ---
 
