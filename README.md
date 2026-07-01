@@ -1,119 +1,178 @@
-# Hi 👋, I'm Ali Nhshl
+# Ali Nhshl
 
-### Full Stack Developer | React, Next.js & Node.js Specialist
+## Full-Stack Developer | React, Next.js & Node.js
 
-I am a passionate **IT Graduate** from Sana'a Community College specialized in building scalable, production-ready web applications. My expertise lies in the **modern JavaScript ecosystem**, with a deep focus on creating fast, responsive, and real-time user experiences.
+Building modern, scalable, and user-focused web applications with clean architecture and polished user experiences.
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/eng-nhshl-b12962306/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:engnhshl@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://wa.me/+967774713102">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+</p>
 
 ---
 
-### 📊 My GitHub Journey
+### About Me
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Eng-Nhshl&theme=tokyonight&column=7&margin-w=15" alt="Trophies" />
-</p>
+I am a passionate IT graduate from Sana'a Community College with a strong interest in building production-ready web applications. My work focuses on modern JavaScript technologies, especially React, Next.js, TypeScript, Node.js, and database-driven systems that are fast, reliable, and maintainable.
+
+I enjoy turning ideas into polished digital products and continuously improving my craft through hands-on learning and real-world development.
 
 ---
 
 ### 🏆 Certifications & Achievements
 
-- **Full Stack Open (Parts 0-9) — University of Helsinki**  
-  Completed a rigorous, deep-dive curriculum into modern web development. Mastered end-to-end engineering principles covering React, Redux Toolkit, Node.js, Express, MongoDB, GraphQL, and TypeScript.
+- Full Stack Open (Parts 0–9) — University of Helsinki
+- Completed an intensive curriculum covering React, Redux Toolkit, Node.js, Express, MongoDB, GraphQL, TypeScript, testing, and modern full-stack architecture.
+- Earned multiple ECTS credits through the core course and advanced specialization modules.
 
-#### 📜 Earned Credentials
+#### 📜 Certified Courses
 
-- **Full Stack Open (Core Curriculum) — University of Helsinki**  
-  Earned 7 ECTS credits mastering the foundations of modern web development, deep-diving into React, Redux Toolkit, Node.js/Express, MongoDB user administration, and automated component/E2E testing.
+- Full Stack Open (Core Curriculum) — University of Helsinki
+  - Earned 7 ECTS credits in the foundations of modern web development.
+  - Covered React, Redux Toolkit, Node.js/Express, MongoDB administration, and automated testing.
 
-![Full Stack Open - Core Course Certificate](/assets/certificate-fullstack.png)
+[![Core Certificate](assets/certificate-fullstack.png)](assets/certificate-fullstack.png)
 
-- **Full Stack Open (GraphQL Part) — University of Helsinki**  
-  Earned 1 ECTS credit focusing on schemas, queries, mutations, Apollo Client, and WebSockets.
+- Full Stack Open (GraphQL Part) — University of Helsinki
+  - Earned 1 ECTS credit in schemas, queries, mutations, Apollo Client, and WebSockets.
 
-![Full Stack Open - GraphQL Advanced Certificate](/assets/certificate-graphql.png)
+[![GraphQL Certificate](assets/certificate-graphql.png)](assets/certificate-graphql.png)
 
-- **Full Stack Open (TypeScript Part) — University of Helsinki**  
-  Earned 1 ECTS credit specializing in typed full-stack development, covering static typing, strict configurations, Express endpoint typing, and migrating existing React architectures to TypeScript.
+- Full Stack Open (TypeScript Part) — University of Helsinki
+  - Earned 1 ECTS credit in typed full-stack development and strict application architecture.
 
-![Full Stack Open - TypeScript Certificate](/assets/certificate-typescript.png)
+[![TypeScript Certificate](assets/certificate-typescript.png)](assets/certificate-typescript.png)
 
-- **Next.js Dashboard Specialization:** Built a full-stack financial dashboard focused on App Router logic, Server Actions, and Auth.js.
+- Full Stack Open (Next.js Part) — University of Helsinki
+  - Earned 1 ECTS credit in building production-ready applications with Next.js.
+
+[![Next.js Certificate](assets/certificate-nextjs.png)](assets/certificate-nextjs.png)
 
 ---
 
-### 🛠️ Featured Web Projects
+### 🚀 Featured Projects
 
-#### 📈 [Next.js Financial Dashboard](https://github.com)
+#### �️ Robexe E-Commerce Platform
 
-_A professional financial management system._
+A full-stack e-commerce platform with a public storefront, admin dashboard, and REST API built with Turborepo, React, Express, and PostgreSQL.
 
-- **Tech:** Next.js 15, PostgreSQL, Auth.js, Tailwind CSS, Zod.
-- **Key Features:** Server-side search & pagination, secure authentication, and real-time data fetching.
-- **Live Demo:** [[https://vercel.app](https://vercel.app)](https://nextjs-dashboard-62umryl26-engnhshl-1867s-projects.vercel.app/login)
+- Tech: Turborepo, React, Express, PostgreSQL, Drizzle ORM, Better Auth
+- Highlights: monorepo architecture, storefront + admin apps, REST API, scalable database design, and production-ready deployment
+- Live Demo: [Open App](https://robexe.vercel.app)
 
-#### 📋 [Sync-Board](https://github.com/Eng-Nhshl/sync-board)
+#### �📈 Next.js Financial Dashboard
 
-_Real-time collaborative Kanban board._
+A modern financial management application focused on clarity, performance, and secure data handling.
 
-- **Tech:** MERN Stack & Socket.io.
-- **Key Features:** Live synchronization allowing multiple users to manage tasks simultaneously.
+- Tech: Next.js 15, PostgreSQL, Auth.js, Tailwind CSS, Zod
+- Highlights: server-side search, pagination, authentication, and efficient real-time data fetching
+- Live Demo: [Open App](https://nextjs-dashboard-62umryl26-engnhshl-1867s-projects.vercel.app/login)
 
-#### 🎙️ [Chat-App](https://github.com/Eng-Nhshl/real-time-chat)
+#### 📋 Sync-Board
 
-_Instant messaging platform._
+A real-time collaborative Kanban board designed for smooth task coordination and team productivity.
 
-- **Tech:** MongoDB, Express, React, Node.js, Socket.io.
+- Tech: MERN Stack, Socket.io
+- Highlights: live synchronization across users and instant task updates
+
+#### 💬 Chat-App
+
+An instant messaging platform built for fast and reliable communication.
+
+- Tech: MongoDB, Express, React, Node.js, Socket.io
+- Highlights: real-time messaging and a responsive interface
 
 ---
 
 ### 🛠️ Technical Toolbox
 
-**Frontend**
-
-<p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Material--UI-0081CB?style=flat&logo=mui&logoColor=white" />
-</p>
-
-**Backend & Database**
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
-</p>
+<table width="100%" border="1" cellpadding="10" cellspacing="0" align="center" style="text-align:center;">
+  <thead>
+    <tr>
+      <th width="20%" align="center" style="text-align:center;">Layer</th>
+      <th width="30%" align="center" style="text-align:center;">Core Frameworks</th>
+      <th width="50%" align="center" style="text-align:center;">Ecosystem & Tools</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center"><b>Frontend</b></td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><b>Backend</b></td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><b>Databases</b></td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
-<table align="center">
+### 📊 GitHub Insights
+
+<table align="center" cellspacing="12" cellpadding="8">
   <tr>
-    <td align="center" width="50%">
-      <img height="210" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Eng-Nhshl&theme=tokyonight" />
+    <td align="center" valign="top">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eng-Nhshl&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
     </td>
-    <td align="center" width="50%">
-      <img height="210" src="https://github-readme-streak-stats.herokuapp.com/?user=Eng-Nhshl&theme=tokyonight" />
+    <td align="center" valign="top">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Eng-Nhshl&theme=tokyonight" alt="GitHub Profile Summary" />
     </td>
   </tr>
 </table>
 
 ---
 
-### 📈 Current Focus
+### 🌱 Current Focus
 
-- **Advanced TypeScript:** Implementing strict type safety across full-stack architectures.
-- **DevOps:** Scaling applications using Docker and automated deployment workflows.
+- Advanced TypeScript and scalable full-stack architecture
+- DevOps workflows, deployment automation, and cloud-ready applications
+- Building interactive, real-time experiences with strong product thinking
 
 ---
 
-### 📫 Let's Connect!
+### 📫 Let’s Connect
+
+I’m always open to collaboration, freelance opportunities, and meaningful projects.
 
 <p align="left">
-<a href="https://www.linkedin.com/in/eng-nhshl-b12962306/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:engnhshl@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://wa.me/+967774713102"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+  <a href="https://www.linkedin.com/in/eng-nhshl-b12962306/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:engnhshl@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://wa.me/+967774713102">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
 </p>
 
-_“Building the web, one component at a time.”_
+“Building thoughtful digital experiences, one component at a time.”
