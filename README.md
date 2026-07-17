@@ -47,37 +47,45 @@ I enjoy turning ideas into polished digital products and continuously improving 
 
 ### 🚀 Featured Projects
 
-#### �️ Robexe E-Commerce Platform
+#### 🌐 Universal-Engine (Headless E-Commerce Monorepo)
 
-A full-stack e-commerce platform with a public storefront, admin dashboard, and REST API built with Turborepo, React, Express, and PostgreSQL.
+A production-grade, headless e-commerce monorepo built for high performance and total content flexibility. By separating the frontend from the backend, it replaces rigid storefronts with a dynamic, modular component system driven entirely by a CMS schema. Perfectly suited for complex discovery flows, dynamic shop grids, and media-rich layouts.
 
-- Tech: Turborepo, React, Express, PostgreSQL, Drizzle ORM, Better Auth
-- Highlights: monorepo architecture, storefront + admin apps, REST API, scalable database design, and production-ready deployment
-- Live Demo: [Open App](https://robexe.vercel.app)
+*   **Tech Stack:** Next.js, TypeScript, React, Tailwind v4, Sanity CMS, pnpm Workspaces, Next Auth, Stripe
+*   **Key Features:** Monorepo architecture, headless CMS integration, component-driven layouts, and lightning-fast staging/production environments.
+*   **Links:** [Live Demo](https://e-commerce-universal-engine.vercel.app)
 
-#### �📈 Next.js Financial Dashboard
+#### 🛍️ Robexe E-Commerce Platform
 
-A modern financial management application focused on clarity, performance, and secure data handling.
+A full-stack e-commerce solution featuring a public storefront, a dedicated admin dashboard, and a robust REST API. Built as a monorepo to keep the frontend and backend closely coupled yet independently scalable.
 
-- Tech: Next.js 15, PostgreSQL, Auth.js, Tailwind CSS, Zod
-- Highlights: server-side search, pagination, authentication, and efficient real-time data fetching
-- Live Demo: [Open App](https://nextjs-dashboard-62umryl26-engnhshl-1867s-projects.vercel.app/login)
+*   **Tech Stack:** Turborepo, React, Express, PostgreSQL, Drizzle ORM, Better Auth
+*   **Key Features:** End-to-end full-stack architecture, secure admin dashboard management, type-safe database queries via Drizzle, and production-ready cloud deployment.
+*   **Links:** [Live Demo](https://robexe.vercel.app)
+
+#### 📈 Next.js Financial Dashboard
+
+A modern financial management application focused on data clarity, performance, and secure session handling. 
+
+*   **Tech Stack:** Next.js 15, PostgreSQL, Auth.js, Tailwind CSS, Zod
+*   **Key Features:** High-performance server-side search and pagination, schema validation via Zod, and efficient real-time data fetching using Next.js Server Components.
+*   **Links:** [Live Demo](https://nextjs-dashboard-62umryl26-engnhshl-1867s-projects.vercel.app/login)
 
 #### 📋 Sync-Board
 
-A real-time collaborative Kanban board designed for smooth task coordination and team productivity.
+A real-time collaborative Kanban board designed for smooth, instantaneous task coordination and team productivity.
 
-- Tech: MERN Stack, Socket.io
-- Highlights: live synchronization across users and instant task updates
-- Project link: [Repository](https://github.com/Eng-Nhshl/sync-board.git)
+*   **Tech Stack:** MongoDB, Express, React, Node.js (MERN), Socket.io
+*   **Key Features:** Bi-directional real-time data synchronization, instant state updates across concurrent users, and drag-and-drop task management.
+*   **Links:** [GitHub Repository](https://github.com/Eng-Nhshl/sync-board.git)
 
 #### 💬 Chat-App
 
-An instant messaging platform built for fast and reliable communication.
+A lightweight instant messaging platform built from scratch to handle fast, reliable communication over persistent connections.
 
-- Tech: MongoDB, Express, React, Node.js, Socket.io
-- Highlights: real-time messaging and a responsive interface
-- Project link: [Repository](https://github.com/Eng-Nhshl/real-time-chat.git)
+*   **Tech Stack:** MongoDB, Express, React, Node.js, Socket.io
+*   **Key Features:** Real-time event-driven messaging, active session handling, and a highly responsive user interface.
+*   **Links:** [GitHub Repository](https://github.com/Eng-Nhshl/real-time-chat.git)
 
 ---
 
