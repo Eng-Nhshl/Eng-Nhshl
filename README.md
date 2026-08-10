@@ -77,7 +77,7 @@ A real-time collaborative Kanban board designed for smooth, instantaneous task c
 
 *   **Tech Stack:** MongoDB, Express, React, Node.js (MERN), Socket.io
 *   **Key Features:** Bi-directional real-time data synchronization, instant state updates across concurrent users, and drag-and-drop task management.
-*   **Links:** [GitHub Repository](https://github.com/Eng-Nhshl/sync-board.git)
+*   **Links:** [Live Demo](https://sync-board-u0dh.onrender.com)
 
 #### 💬 Chat-App
 
